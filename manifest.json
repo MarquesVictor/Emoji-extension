@@ -1,0 +1,11 @@
+{
+    "name": "Emoji-extension",
+    "version": "0.1",
+    "description": "Easy way to copy to clipboard: just click on the desired emoji",
+    "manifest_version": 1,
+    "author": "Victor MArques",
+    "action":{
+      "default_popup": "index.html",
+      "default_title": "Emoji-extension"
+    }
+  }
